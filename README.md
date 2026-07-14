@@ -1,4 +1,4 @@
-# Primeros Ejercicios en Java ☕
+# Mis Primeros Ejercicios en Java ☕
 
 ¡Bienvenido/a a mi repositorio de prácticas iniciales en Java! Este espacio reúne un conjunto de pequeños proyectos desarrollados de manera independiente para dominar los fundamentos de la programación orientada a objetos, las estructuras de control lógicas y el manejo básico de datos en el lenguaje.
 
